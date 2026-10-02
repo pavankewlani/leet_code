@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pavankewlani/leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavankewlani/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/pavankewlani/leet_code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pavankewlani/leet_code/tree/master/0015-3sum) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankewlani/leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/pavankewlani/leet_code/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankewlani/leet_code/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pavankewlani/leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
