@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankewlani/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/pavankewlani/leet_code/tree/master/0014-longest-common-prefix) |
+| [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pavankewlani/leet_code/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
