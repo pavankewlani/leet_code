@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankewlani/leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/pavankewlani/leet_code/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/pavankewlani/leet_code/tree/master/0014-longest-common-prefix) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
