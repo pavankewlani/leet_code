@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavankewlani/leet_code/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/pavankewlani/leet_code/tree/master/0010-regular-expression-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pavankewlani/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/pavankewlani/leet_code/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/pavankewlani/leet_code/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/pavankewlani/leet_code/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/pavankewlani/leet_code/tree/master/0014-longest-common-prefix) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankewlani/leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/pavankewlani/leet_code/tree/master/0010-regular-expression-matching) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
