@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavankewlani/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankewlani/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/pavankewlani/leet_code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/pavankewlani/leet_code/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
