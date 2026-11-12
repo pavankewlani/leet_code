@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pavankewlani/leet_code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/pavankewlani/leet_code/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/pavankewlani/leet_code/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/pavankewlani/leet_code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pavankewlani/leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pavankewlani/leet_code/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/pavankewlani/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pavankewlani/leet_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pavankewlani/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/pavankewlani/leet_code/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
