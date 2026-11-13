@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pavankewlani/leet_code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pavankewlani/leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavankewlani/leet_code/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/pavankewlani/leet_code/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/pavankewlani/leet_code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pavankewlani/leet_code/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/pavankewlani/leet_code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/pavankewlani/leet_code/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavankewlani/leet_code/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/pavankewlani/leet_code/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
