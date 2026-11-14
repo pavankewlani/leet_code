@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pavankewlani/leet_code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pavankewlani/leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pavankewlani/leet_code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/pavankewlani/leet_code/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/pavankewlani/leet_code/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/pavankewlani/leet_code/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pavankewlani/leet_code/tree/master/0043-multiply-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pavankewlani/leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
