@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pavankewlani/leet_code/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/pavankewlani/leet_code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pavankewlani/leet_code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavankewlani/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankewlani/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/pavankewlani/leet_code/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavankewlani/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pavankewlani/leet_code/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pavankewlani/leet_code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pavankewlani/leet_code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/pavankewlani/leet_code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -248,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pavankewlani/leet_code/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
