@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pavankewlani/leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
+| [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankewlani/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/pavankewlani/leet_code/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/pavankewlani/leet_code/tree/master/1021-remove-outermost-parentheses) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
