@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
+| [0946-validate-stack-sequences](https://github.com/pavankewlani/leet_code/tree/master/0946-validate-stack-sequences) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
+| [0946-validate-stack-sequences](https://github.com/pavankewlani/leet_code/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/pavankewlani/leet_code/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pavankewlani/leet_code/tree/master/0043-multiply-strings) |
+| [0946-validate-stack-sequences](https://github.com/pavankewlani/leet_code/tree/master/0946-validate-stack-sequences) |
 ## Memoization
 |  |
 | ------- |
