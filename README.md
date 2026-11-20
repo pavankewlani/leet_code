@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pavankewlani/leet_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pavankewlani/leet_code/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/pavankewlani/leet_code/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pavankewlani/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/pavankewlani/leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavankewlani/leet_code/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pavankewlani/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pavankewlani/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pavankewlani/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -300,4 +303,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pavankewlani/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pavankewlani/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pavankewlani/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
