@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pavankewlani/leet_code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pavankewlani/leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavankewlani/leet_code/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/pavankewlani/leet_code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pavankewlani/leet_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pavankewlani/leet_code/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/pavankewlani/leet_code/tree/master/0066-plus-one) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavankewlani/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankewlani/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/pavankewlani/leet_code/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/pavankewlani/leet_code/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
 ## Linked List
