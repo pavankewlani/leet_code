@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavankewlani/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/pavankewlani/leet_code/tree/master/0946-validate-stack-sequences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pavankewlani/leet_code/tree/master/1352-product-of-the-last-k-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pavankewlani/leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pavankewlani/leet_code/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/pavankewlani/leet_code/tree/master/0204-count-primes) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pavankewlani/leet_code/tree/master/1352-product-of-the-last-k-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -311,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pavankewlani/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pavankewlani/leet_code/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pavankewlani/leet_code/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pavankewlani/leet_code/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
