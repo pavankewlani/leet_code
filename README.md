@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/pavankewlani/leet_code/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pavankewlani/leet_code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavankewlani/leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3934-smallest-unique-subarray](https://github.com/pavankewlani/leet_code/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pavankewlani/leet_code/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/pavankewlani/leet_code/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/pavankewlani/leet_code/tree/master/0496-next-greater-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/pavankewlani/leet_code/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pavankewlani/leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pavankewlani/leet_code/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavankewlani/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3934-smallest-unique-subarray](https://github.com/pavankewlani/leet_code/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pavankewlani/leet_code/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pavankewlani/leet_code/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pavankewlani/leet_code/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pavankewlani/leet_code/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
