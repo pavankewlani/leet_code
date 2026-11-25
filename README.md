@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pavankewlani/leet_code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pavankewlani/leet_code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/pavankewlani/leet_code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/pavankewlani/leet_code/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/pavankewlani/leet_code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/pavankewlani/leet_code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pavankewlani/leet_code/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/pavankewlani/leet_code/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/pavankewlani/leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pavankewlani/leet_code/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/pavankewlani/leet_code/tree/master/1021-remove-outermost-parentheses) |
