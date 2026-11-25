@@ -13,7 +13,7 @@ public:
                 p2 = (p2 * base2) % mod2;
             }
             unordered_map<long long, int> freq;
-            freq.reserve(n - len);
+            freq.reserve(n - len + 1);
             for (int i = 0; i < n; ++i) {
                 if (i >= len) {
                     h1 = (h1 - (nums[i - len] * p1) % mod1 + mod1) % mod1;
@@ -25,10 +25,8 @@ public:
                     long long combined = (h1 << 32) | h2;
                     freq[combined]++;
                 }
-            }  
-            for (auto& entry : freq) {
-                if (entry.second == 1) return true;
             }
+            for (auto& entry : freq) if (entry.second == 1) return true;
             return false;
         };
         while (low <= high) {
@@ -36,9 +34,9 @@ public:
             if (hasUnique(mid)) {
                 ans = mid;
                 high = mid - 1;
-            } 
-            else low = mid + 1;
+            } else low = mid + 1;
         }
         return ans;
     }
+
 };
